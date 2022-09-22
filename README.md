@@ -1,5 +1,10 @@
 # 💰 Expenses Tracker App
 
+<p align="middle">
+  <img src="assets/images/base_screen.jpg" width="30%" style="margin-right: 3rem" />
+  <img src="assets/images/add_expense.jpg" width="30%" /> 
+</p>
+
 An application in which you can keep track of your expenses, a demo application made in flutter from this [Udemy course][course].
 
 - Flutter version: 3.3.x
